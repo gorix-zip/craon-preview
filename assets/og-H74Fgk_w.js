@@ -1,0 +1,1 @@
+import{t as e}from"./index-D1lxmdj6.js";var t=e();function n(){return(0,t.jsx)(`iframe`,{src:`/craon-preview/og/index.html`,title:`Craon, the previous page`,className:`fixed inset-0 h-full w-full border-0`})}export{n as component};
